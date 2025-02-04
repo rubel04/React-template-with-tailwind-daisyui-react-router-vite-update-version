@@ -1,8 +1,19 @@
-# React + Vite
+# React template
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+As React 19 is new, this scaffolding project is for everyone who wants to start coding in React 19.
 
-Currently, two official plugins are available:
+It has:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Vite
+- React 19.0(Stable Version)
+- React Router 7.1.5
+- TailwindCSS 4.x
+- daisyUi 5
+
+## Create Your Own React 19 Project with Vite and TailwindCSS
+
+There are multiple ways you can utilize this repository to create your own project. The most straightforward way is by using the follwoing command from the command prompt/terminal:
+
+```bash
+npx degit rubel04/React-template-with-tailwind-daisyui-react-router-vite#main <YOUR_PROJECT_NAME>
+```
