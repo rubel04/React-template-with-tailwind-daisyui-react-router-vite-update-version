@@ -15,5 +15,5 @@ It has:
 There are multiple ways you can utilize this repository to create your own project. The most straightforward way is by using the follwoing command from the command prompt/terminal:
 
 ```bash
-npx degit rubel04/React-template-with-tailwind-daisyui-react-router-vite#main <YOUR_PROJECT_NAME>
+npx degit rubel04/React-template-with-tailwind-daisyui-react-router-vite-update-version#main<YOUR_PROJECT_NAME>
 ```
